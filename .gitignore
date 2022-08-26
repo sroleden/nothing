@@ -5,4 +5,7 @@ data/
 dist/
 tmp/
 src/nothing.egg-info/
+*/__pycache__/*
+
+
 .env
