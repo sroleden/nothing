@@ -1,0 +1,8 @@
+.idea/
+.venv/
+data/
+.ipynb_checkpoints/
+dist/
+tmp/
+src/nothing.egg-info/
+.env
